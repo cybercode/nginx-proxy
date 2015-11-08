@@ -1,5 +1,5 @@
-FROM nginx:1.9.5
-MAINTAINER Jason Wilder jwilder@litl.com
+FROM nginx:1.9.6
+MAINTAINER Rick Frankel rick (at) cybercode.nyc
 
 # Install wget and install/updates certificates
 RUN apt-get update \
