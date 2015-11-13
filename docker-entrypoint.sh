@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 set -e
 
 # Warn if the DOCKER_HOST socket does not exist
